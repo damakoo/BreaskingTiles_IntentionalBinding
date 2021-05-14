@@ -3,7 +3,7 @@
 VR空間で身体運動を用いてIntentional Bindingを体験できるアプリ
 
 # DEMO
-://user-images.githubusercontent.com/71433895/118219265-2141b780-b4b4-11eb-8cf8-e2f3ffa667ca.gif
+user-images.githubusercontent.com/71433895/118219265-2141b780-b4b4-11eb-8cf8-e2f3ffa667ca.gif
 
 # Features
 
