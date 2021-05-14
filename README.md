@@ -1,18 +1,15 @@
-# BreaskingTiles_IntentionalBinding
+# BreaskingTiles_IntentionalBindinghttps
 
-VR空間での身体運動にもIntentionalBindingを適用することができるか試すことができるアプリ
+VR空間で身体運動を用いてIntentional Bindingを体験できるアプリ
 
 # DEMO
-
-
-
+://user-images.githubusercontent.com/71433895/118219265-2141b780-b4b4-11eb-8cf8-e2f3ffa667ca.gif
 
 # Features
-Intentional Bindingとは，
-行為主体感が高いほど行為から結果が起こるまでの主観的時間が短く知覚される現象のこと．
 
-瓦に触れてから割れるまでに時間差を作り，その時間を答えてもらい実際の時間差と比較することで行為主体感を測定する．
+Intentional Binding とは，行為主体感が高いほど行為から結果が起こるまでの主観的時間が短く知覚される現象
 
+瓦に触れる瞬間と瓦が割れる瞬間の間に時間差を作ると，その時間差を短く感じる．
 
 # Requirement
 
@@ -30,9 +27,9 @@ git clone https://github.com/damakoo/BreaskingTiles_IntentionalBinding.git
 
 Unity Hubでcloneしたプロジェクトを指定する
 
-Project > Assets > kyoushi を開く
+Project > Assets > Scenes > kyoshi.unity　を開く
 
-HTC VIVEを接続後，再生マークをクリックして実行
+HTC VIVE を接続し，再生ボタンで実行
 
 
 
